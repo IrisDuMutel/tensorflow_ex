@@ -4,5 +4,6 @@
         "/opt/ros/noetic/lib/python3/dist-packages",
         "/home/iris/.local/bin"
     ],
-    "python.dataScience.jupyterServerURI": "local"
+    "python.dataScience.jupyterServerURI": "local",
+    "cmake.configureOnOpen": false
 }
